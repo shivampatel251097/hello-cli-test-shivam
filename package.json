@@ -1,0 +1,16 @@
+{
+  "name": "hello-cli-test-shivam",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivampatel251097/hello-cli-test-shivam"
+  }
+}
